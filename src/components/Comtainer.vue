@@ -40,7 +40,7 @@
           </div>
 
           <div class="col-lg-5 text-center mt-5 mt-lg-0">
-            <img src="./img/avatar.jpg" class="img-fluid rounded-circle border border-5 border-white shadow-lg avatar-img">
+            <img src="./img/avatar1.jpg" class="img-fluid rounded-circle border border-5 border-white shadow-lg avatar-img">
           </div>
         </div>
       </div>
