@@ -30,6 +30,12 @@
               <a href="mailto:hoanglong15072004@gmail.com" class="text-decoration-none contact-icon mail" title="Gửi Email">
                 <i class="bi bi-envelope-fill fs-2"></i>
               </a>
+              <a href="https://github.com/LongHoang15" target="_blank" class="text-decoration-none contact-icon github" title="GitHub">
+                <i class="bi bi-github fs-2"></i>
+              </a>
+              <a href="https://www.tiktok.com/@ahihi1507" target="_blank" class="text-decoration-none contact-icon tiktok" title="TikTok">
+                <i class="bi bi-tiktok fs-2"></i>
+              </a>
             </div>
           </div>
 
@@ -45,62 +51,59 @@
         <h2 class="text-center fw-bold mb-5 display-5">Kỹ năng chuyên môn</h2>
         
         <div class="row g-4">
-          <div class="col-md-6">
-            <div class="card border-0 shadow-sm p-4 rounded-4 h-100">
-              <h4 class="fw-bold text-center mb-4">Backend Development</h4>
-              <div class="d-flex flex-column gap-3">
-                <div class="d-flex align-items-center">
-                  <img src="./img/java.webp" alt="Java" width="40" class="me-3">
-                  <div><div class="fw-bold">Java</div><small class="text-secondary">Advanced</small></div>
+          <div class="col-12">
+            <div class="card border-0 shadow-sm p-4 rounded-4">
+              <h4 class="fw-bold text-dark mb-4 text-center"><i class="bi bi-laptop me-2"></i>LẬP TRÌNH & CÔNG NGHỆ</h4>
+              <div class="row g-4 fs-5">
+                <div class="col-md-6">
+                  <h5 class="fw-bold text-success border-bottom pb-2"><i class="bi bi-code-square me-2"></i>Ngôn ngữ lập trình</h5>
+                  <p class="text-secondary mb-0">Java, JavaScript, SQL, HTML, CSS</p>
                 </div>
-                <div class="d-flex align-items-center">
-                  <img src="./img/springboot.png" alt="Spring Boot" width="40" class="me-3">
-                  <div><div class="fw-bold">Spring Boot</div><small class="text-secondary">Intermediate</small></div>
+                <div class="col-md-6">
+                  <h5 class="fw-bold text-primary border-bottom pb-2"><i class="bi bi-database-fill me-2"></i>Cơ sở dữ liệu</h5>
+                  <p class="text-secondary mb-0">SQL Server, MySQL</p>
                 </div>
-                <div class="d-flex align-items-center">
-                  <img src="./img/sql.webp" alt="SQL Server" width="40" class="me-3">
-                  <div><div class="fw-bold">SQL Server</div><small class="text-secondary">Advanced</small></div>
+                <div class="col-md-6">
+                  <h5 class="fw-bold text-danger border-bottom pb-2"><i class="bi bi-cpu-fill me-2"></i>Công nghệ</h5>
+                  <p class="text-secondary mb-0">Spring Boot, Spring Data JPA/Hibernate, Vue.js, Vue Router, Bootstrap, JDBC, RESTful API, Spring Security, JWT Authentication, Docker, Maven, Axios</p>
                 </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-md-6">
-            <div class="card border-0 shadow-sm p-4 rounded-4 h-100">
-              <h4 class="fw-bold text-center mb-4">Frontend Development</h4>
-              <div class="d-flex flex-column gap-3">
-                <div class="d-flex align-items-center">
-                  <img src="./img/html.png" alt="HTML" width="40" class="me-3">
-                  <div><div class="fw-bold">HTML</div><small class="text-secondary">Advanced</small></div>
-                </div>
-                <div class="d-flex align-items-center">
-                  <img src="./img/css.png" alt="CSS" width="40" class="me-3">
-                  <div><div class="fw-bold">CSS</div><small class="text-secondary">Advanced</small></div>
-                </div>
-                <div class="d-flex align-items-center">
-                  <img src="./img/javascript.jpg" alt="JavaScript" width="40" class="me-3">
-                  <div><div class="fw-bold">JavaScript</div><small class="text-secondary">Intermediate</small></div>
-                </div>
-                <div class="d-flex align-items-center">
-                  <img src="./img/bootstrap.jpg" alt="Bootstrap" width="40" class="me-3">
-                  <div><div class="fw-bold">Bootstrap</div><small class="text-secondary">Intermediate</small></div>
-                </div>
-                <div class="d-flex align-items-center">
-                  <img src="./img/vuejs.png" alt="Vue.js" width="40" class="me-3">
-                  <div><div class="fw-bold">Vue.js</div><small class="text-secondary">Intermediate</small></div>
+                <div class="col-md-6">
+                  <h5 class="fw-bold text-info border-bottom pb-2"><i class="bi bi-tools me-2"></i>Công cụ</h5>
+                  <p class="text-secondary mb-0">Intellij IDEA, Visual Studio Code, NetBeans, SQL Server Management Studio (SSMS), Postman, Git, GitHub, Docker Desktop, Docker Compose</p>
                 </div>
               </div>
             </div>
           </div>
 
           <div class="col-12 mt-4">
-            <div class="card border-0 shadow-sm p-4 rounded-4 text-center">
-              <h4 class="fw-bold text-dark mb-4">KỸ NĂNG MỀM</h4>
-              <div class="row g-2">
-                <div class="col-md-3 col-6"><span class="badge bg-white text-dark border p-2 w-100 shadow-sm">Làm việc nhóm</span></div>
-                <div class="col-md-3 col-6"><span class="badge bg-white text-dark border p-2 w-100 shadow-sm">Thuyết trình</span></div>
-                <div class="col-md-3 col-6"><span class="badge bg-white text-dark border p-2 w-100 shadow-sm">Làm việc độc lập</span></div>
-                <div class="col-md-3 col-6"><span class="badge bg-white text-dark border p-2 w-100 shadow-sm">Quản lý công việc</span></div>
+            <div class="card border-0 shadow-sm p-4 rounded-4">
+              <h4 class="fw-bold text-dark mb-4 text-center"><i class="bi bi-robot me-2"></i>KỸ NĂNG AI DATA LABELER & KỸ NĂNG MỀM</h4>
+              <div class="row g-4 text-start">
+                <div class="col-md-4">
+                  <h5 class="fw-bold text-success border-bottom pb-2"><i class="bi bi-person-gear me-2"></i>Kỹ năng chuyên môn</h5>
+                  <ul class="text-secondary mt-3 mb-0">
+                    <li class="mb-2">Phân tích và gán nhãn dữ liệu video.</li>
+                    <li class="mb-2">Rà soát lỗi, kiểm soát chất lượng dữ liệu (QC).</li>
+                    <li>Phân loại hành động và đối tượng logic.</li>
+                  </ul>
+                </div>
+                <div class="col-md-4">
+                  <h5 class="fw-bold text-primary border-bottom pb-2"><i class="bi bi-pc-display me-2"></i>Công cụ</h5>
+                  <ul class="text-secondary mt-3 mb-0">
+                    <li class="mb-2">Thao tác máy tính tốc độ cao (thành thạo phím tắt).</li>
+                    <li class="mb-2">Tiếp thu nhanh các phần mềm gán nhãn AI chuyên dụng.</li>
+                    <li>Báo cáo công việc (Word, Excel, Google Docs).</li>
+                  </ul>
+                </div>
+                <div class="col-md-4">
+                  <h5 class="fw-bold text-warning border-bottom pb-2"><i class="bi bi-people-fill me-2"></i>Kỹ năng mềm</h5>
+                  <ul class="text-secondary mt-3 mb-0">
+                    <li class="mb-2">Tỉ mỉ, quan sát tốt và chú ý chi tiết nhỏ.</li>
+                    <li class="mb-2">Kiên nhẫn với khối lượng dữ liệu lớn và tác vụ lặp lại.</li>
+                    <li class="mb-2">Tuân thủ nghiêm ngặt bảo mật thông tin.</li>
+                    <li>Làm việc nhóm, thuyết trình, làm việc độc lập, quản lý công việc.</li>
+                  </ul>
+                </div>
               </div>
             </div>
           </div>
@@ -111,6 +114,26 @@
     <section id="experience" class="py-5 bg-white">
       <div class="container">
         <h2 class="fw-bold mb-5 display-5 text-center">Dự án</h2>
+
+        <div class="card border-0 border-start border-danger border-5 shadow-sm p-4 mb-4 rounded-4 project-card">
+          <div class="d-flex justify-content-between align-items-center flex-wrap mb-3">
+            <h3 class="fw-bold mb-0 text-danger">Website đặt bàn lẩu Thái FourSpiceHotpot</h3>
+            <span class="text-muted fw-bold">02/2026 - 05/2026</span>
+          </div>
+          <ul class="list-unstyled fs-5">
+            <li class="mb-2"><strong>Vị trí:</strong> Fullstack Developer (Java Spring boot + Vue.js)</li>
+            <li class="mb-2"><strong>Mô tả dự án:</strong> Xây dựng hệ thống quản lý nhà hàng lẩu, xử lý luồng nghiệp vụ thực tế gồm đặt bàn, check-in, phục vụ và thanh toán, đảm bảo đồng bộ trạng thái giữa các thực thể trong hệ thống.</li>
+            <li class="mb-2"><strong>Công việc thực hiện:</strong>
+              <ul>
+                <li><strong>Backend:</strong> Thiết kế hệ thống Layered Architecture, sử dụng DTO. Xây dựng RESTful API và thao tác database bằng Spring Data JPA / Hibernate.</li>
+                <li><strong>Nghiệp vụ:</strong> Quản lý luồng xử lý liên hoàn (Đặt bàn &rarr; Check-in &rarr; Tạo hóa đơn &rarr; Phục vụ &rarr; Thanh toán). Xử lý quan hệ n-n giữa Hóa đơn và Bàn ăn, tránh conflict dữ liệu.</li>
+                <li><strong>Frontend:</strong> Xây dựng SPA với Vue Router. Giao diện hiển thị sơ đồ bàn, check-in, cập nhật dữ liệu và gọi API thời gian thực.</li>
+              </ul>
+            </li>
+            <li class="mb-2"><strong>Công nghệ:</strong> Java (Spring Boot), Spring Data JPA / Hibernate, SQL Server, Vue.js, Vue Router, REST API, JWT, Docker.</li>
+            <li><strong>Công cụ:</strong> IntelliJ IDEA, Visual Studio Code, SSMS, Postman, Git, GitHub, Docker Desktop.</li>
+          </ul>
+        </div>
 
         <div class="card border-0 border-start border-success border-5 shadow-sm p-4 mb-4 rounded-4 project-card">
           <div class="d-flex justify-content-between align-items-center flex-wrap mb-3">
@@ -141,6 +164,40 @@
       </div>
     </section>
     
+    <section id="awards" class="py-5 bg-light">
+      <div class="container">
+        <h2 class="fw-bold mb-5 display-5 text-center">Giải thưởng & Danh hiệu</h2>
+        <div class="row justify-content-center">
+          <div class="col-lg-8">
+            <div class="card border-0 border-start border-warning border-5 shadow-sm p-4 rounded-4 project-card">
+              <ul class="list-unstyled mb-0 fs-5">
+                <li class="mb-3"><i class="bi bi-trophy-fill text-warning me-3"></i><strong>2026:</strong> Danh hiệu top 150 sinh viên Xuất Sắc Kỳ Fall 2025</li>
+                <li class="mb-3"><i class="bi bi-award-fill text-success me-3"></i><strong>2025:</strong> Đạt học bổng Kỳ Spring 2026</li>
+                <li class="mb-3"><i class="bi bi-star-fill text-primary me-3"></i><strong>2025:</strong> Danh hiệu sinh viên Giỏi Kỳ Summer 2025</li>
+                <li class="mb-3"><i class="bi bi-trophy-fill text-warning me-3"></i><strong>2025:</strong> Danh hiệu top 150 sinh viên Xuất Sắc Kỳ Spring 2025</li>
+                <li><i class="bi bi-star-fill text-primary me-3"></i><strong>2024:</strong> Danh hiệu sinh viên Giỏi Kỳ Fall 2024</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="certificates" class="py-5 bg-white">
+      <div class="container">
+        <h2 class="fw-bold mb-5 display-5 text-center">Chứng chỉ</h2>
+        <div class="row justify-content-center">
+          <div class="col-md-8 col-lg-6">
+            <div class="card border-0 shadow-sm p-3 rounded-4 text-center">
+              <img src="./img/chungChiGemini.jpg" alt="Chứng chỉ Gemini" class="img-fluid rounded-3 mb-3 border">
+              <h4 class="fw-bold text-dark mb-1 mt-2">Gemini Certified Student</h4>
+              <p class="text-muted mb-0">Cấp bởi Google for Education</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
     <section id="project-gallery" class="py-5 bg-light">
       <div class="container text-center">
         <h2 class="fw-bold mb-5 display-5">Các hoạt động đã tham gia</h2>
@@ -233,6 +290,8 @@ section { padding: 100px 0; }
 .fb:hover { color: #1877F2; }
 .zalo:hover { color: #0068FF; }
 .mail:hover { color: #EA4335; }
+.github:hover { color: #24292e; }
+.tiktok:hover { color: #000000; }
 
 /* Carousel/Gallery */
 .project-img {
